@@ -1,0 +1,12 @@
+1 american_goldfinch
+2 sparrow
+3 purple_finch
+4 gray_catbird
+5 house_finch
+6 tufted_titmouse
+7 canada_goose
+8 grackle
+9 mallard_duck
+10 squirrel
+11 red_tailed_hawk
+12 downy_woodpecker
